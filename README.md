@@ -152,7 +152,7 @@ Expect Save Incompatibility → Some Beta updates may require a new game.
 
 🌑 Features
 
-1400+ Mods fully integrated into one package.
+1500+ Mods fully integrated into one package.
 
 Dark Fantasy Atmosphere – new visuals, weather, lighting, and ambience.
 
@@ -184,12 +184,16 @@ controller layout Scheme ElderRim
 <img width="1000" height="187" alt="Divider+Line" src="https://github.com/user-attachments/assets/8b52005a-a478-418a-9614-afa288bf3c5b" />
 
 
+
+
 ------------------------------------
 please read :
 .when first time you start a game, you may see over bright lights on grounds simply re-start your game.
 .when you see save game corrupted don't worry, just re-start your game.
 
 -----------------------------------
+
+
 ⚠️ Beta Disclaimer
 
 ElderRim is in BETA – mostly stable, but issues remain.
