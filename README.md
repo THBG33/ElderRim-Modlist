@@ -7,7 +7,7 @@
 
 A Dark & Immersive Skyrim Overhaul (Beta Build)
 
-ElderRim is a massive Skyrim SE modlist with over 1400 carefully curated mods, designed to transform Skyrim into a darker, more atmospheric, and challenging fantasy world. Inspired by Souls-like gameplay, ElderRim combines brutal combat, epic bosses, immersive visuals, and rebalanced mechanics into one streamlined experience — all pre-configured and ready to play via Wabbajack.
+ElderRim is a massive Skyrim SE modlist with over 1500 carefully curated mods, designed to transform Skyrim into a darker, more atmospheric, and challenging fantasy world. Inspired by Souls-like gameplay, ElderRim combines brutal combat, epic bosses, immersive visuals, and rebalanced mechanics into one streamlined experience — all pre-configured and ready to play via Wabbajack.
 
 
 
@@ -123,7 +123,7 @@ Configure MCM menus on first load (preset files included).
 
 Optional: Run BethINI for custom INI tweaks.
 
-Optional: Install and configure ENB (instructions on Discord).
+Optional: Install and configure ENB.
 
 
 <img width="1000" height="187" alt="Divider+Line" src="https://github.com/user-attachments/assets/238a2b0c-25cb-49c0-8e18-f85463c211f1" />
@@ -168,13 +168,28 @@ Optimized Stability – patches, load order fixes, MCM presets pre-configured.
 
 
 
+
+---------------------------------------------------------------------------------
+controller layout Scheme ElderRim
+
+<img width="2560" height="1440" alt="Control Scheme001" src="https://github.com/user-attachments/assets/6a211cec-758b-45a6-91b0-25697c112c35" />
+
+
+
+
 <img width="2560" height="1440" alt="The Elder Scrolls V  Skyrim Special Edition Screenshot 001222" src="https://github.com/user-attachments/assets/564ede0b-24bc-4abe-a750-86bab872e583" />
 
 
 
-<img width="1000" height="187" alt="Divider+Line" src="https://github.com/user-attachments/assets/2c518b55-8cf5-46d6-be28-04dbe9f50be7" />
+<img width="1000" height="187" alt="Divider+Line" src="https://github.com/user-attachments/assets/8b52005a-a478-418a-9614-afa288bf3c5b" />
 
 
+------------------------------------
+please read :
+.when first time you start a game, you may see over bright lights on grounds simply re-start your game.
+.when you see save game corrupted don't worry, just re-start your game.
+
+-----------------------------------
 ⚠️ Beta Disclaimer
 
 ElderRim is in BETA – mostly stable, but issues remain.
