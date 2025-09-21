@@ -44,7 +44,7 @@ RAM: 32 GB
 GPU: NVIDIA RTX 3070 / AMD RX 6800 (8GB+ VRAM)
 
 Storage: 250 GB+ SSD (NVMe strongly recommended)
-
+-----------------------------------------------------
 High-End Specs (For 1440p / 4K + ENB)
 
 CPU: Intel i9-12900K / AMD Ryzen 9 5900X
@@ -91,7 +91,7 @@ Place it in a folder like C:\Wabbajack (not Desktop/Downloads).
 ElderRim is now available to the public through Nexus Mods.
 
 Visit the official Nexus page: ElderRim on Nexus
- (----)
+ ([modlist](https://www.nexusmods.com/skyrimspecialedition/mods/159529?tab=description))
 
 Download the .wabbajack file from Nexus.
 
@@ -210,4 +210,4 @@ Saves may not always carry over between Beta versions.
 
 
 
-Discord Invite → ([your link here]([https://discord.gg/yjsR2Htm](https://discord.gg/fEmyjmSxQX)))
+Discord Invite → [discord](https://discord.gg/fEmyjmSxQX)]
