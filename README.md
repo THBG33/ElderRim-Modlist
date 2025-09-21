@@ -210,4 +210,4 @@ Saves may not always carry over between Beta versions.
 
 
 
-Discord Invite → ([your link here](https://discord.gg/yjsR2Htm))
+Discord Invite → ([your link here]([https://discord.gg/yjsR2Htm](https://discord.gg/fEmyjmSxQX)))
