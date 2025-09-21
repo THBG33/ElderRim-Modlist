@@ -127,6 +127,8 @@ Optional: Install and configure ENB.
 
 ---------------------------------------------------------
 how to change to different ENB mod and weathers ?
+<img width="2560" height="1440" alt="336552" src="https://github.com/user-attachments/assets/c697ce05-e564-4eed-82d7-14ced5211b1e" />
+<img width="2560" height="1440" alt="588754" src="https://github.com/user-attachments/assets/01fad325-1cd9-44ae-b8ca-e9fec95808e3" />
 
 
 
