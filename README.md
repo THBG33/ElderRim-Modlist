@@ -125,6 +125,14 @@ Optional: Run BethINI for custom INI tweaks.
 
 Optional: Install and configure ENB.
 
+---------------------------------------------------------
+how to change to different ENB mod and weathers ?
+<img width="2560" height="1440" alt="336552" src="https://github.com/user-attachments/assets/cd160a1c-809b-43bb-ba10-ef5a21f0617c" />
+
+<img width="2560" height="1440" alt="588754" src="https://github.com/user-attachments/assets/62489d1b-02e5-4c84-a2d2-cd50b4cb4f79" />
+
+
+
 
 <img width="1000" height="187" alt="Divider+Line" src="https://github.com/user-attachments/assets/238a2b0c-25cb-49c0-8e18-f85463c211f1" />
 
