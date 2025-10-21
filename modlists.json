@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "ElderRim",
+    "description": "ElderRim – A Comprehensive Skyrim Overhaul Mod List (1500+ Mods). ElderRim is a highly ambitious mod list that transforms Skyrim into a rich, immersive, and challenging experience. Built on the foundation of over 1500 meticulously curated mods, it blends gameplay, visuals, and quality-of-life enhancements into one cohesive package. Designed for players seeking a deeply immersive role-playing experience with enhanced difficulty, stunning visuals, and comprehensive customization.  ",
+    "author": THBG
+    "maintainers": https://discord.gg/XQJ79WX6
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": 
+      "image": 
+      "readme": https://github.com/THBG33/ElderRim-Modlist/blob/main/README.md
+      "download": https://www.nexusmods.com/skyrimspecialedition/mods/159529?tab=files 
+      "machineURL": 
+      "discordURL": https://discord.gg/XQJ79WX6
+    },
+    "download_metadata": {
+      "$type": 
+      "Hash": "ZBrCzEyPPxk="
+      "Size":601217783
+      "NumberOfArchives": 1667
+      "SizeOfArchives": 142462934893
+      "NumberOfInstalledFiles": 223424
+      "SizeOfInstalledFiles": 234985095192
+    },
+    "version": "1.1.3"
+  }
+]
+
